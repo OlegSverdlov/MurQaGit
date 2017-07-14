@@ -1,2 +1,3 @@
 /tmp
-.gitignore
+/.gitignore
+ignore_folder/
