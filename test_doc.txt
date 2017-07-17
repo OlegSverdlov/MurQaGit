@@ -11,3 +11,7 @@ SourceTree view
 +1
 
 this line added in dmitrij_branch
+
+
+line in file after merge with master
+
