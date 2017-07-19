@@ -1,7 +1,5 @@
 some text 
 
 
-another part
-
 
 add for commit
